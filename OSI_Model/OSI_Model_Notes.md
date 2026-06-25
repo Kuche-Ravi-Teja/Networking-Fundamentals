@@ -84,4 +84,4 @@ The OSI model helps network device manufacturers and networking software vendors
   - Define which parts of the network their products should work with.
   - Communicate to users at which network layers their product operates – for example, only at the application layer, or across the stack.
 
-### How Does Communication Happen in the OSI Model? A Practical Example in image format included with some other information in another file (OSI_Model_Images.md).
+### We can find practical example on png file.
