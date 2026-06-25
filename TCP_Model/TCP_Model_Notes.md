@@ -119,3 +119,5 @@ TCP/IP is preferred over the OSI model because it is simpler, practical, and wid
         Flexibility and Robustness : TCP/IP adapts well to different hardware and networks and includes error handling, routing, and congestion control.
         Open Standard : TCP/IP is open, free to use, and not controlled by any single organization, which helped it gain universal acceptance.
         Actual Use vs Conceptual Model : OSI is great for learning and design principles, but TCP/IP is the model actually used in real-world networking.
+
+### We can find practical example on png file
