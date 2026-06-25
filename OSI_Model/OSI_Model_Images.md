@@ -1,2 +1,1 @@
-gJiauavabagJiJabajiajabhthis model has gow iahaabhajajhhhhyauisjsj
-gajuahhabsbahhahahshwhwhwhshhhgfgggfgffffdfccvvvvvvvvvbnbgbhhhgghshyguhhffshshgghghjhfddffff
+Images gives the detailed understanding of practical example and some basic information about osi model. 
